@@ -1,0 +1,6 @@
+/*
+similar to ban but with no perms to see any channels and read texts
+no bot dm
+no dm allownance 
+no dming to bot as well
+*/
