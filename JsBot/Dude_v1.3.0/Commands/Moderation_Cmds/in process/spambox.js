@@ -1,0 +1,5 @@
+/* 
+same like shame box but a changing that the user will be directed to a spam channel and having access to use any bot commands....without xp
+not access to use my bot
+no access to peeps outside of certain channels
+*/
